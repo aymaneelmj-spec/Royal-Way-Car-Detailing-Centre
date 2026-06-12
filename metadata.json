@@ -1,0 +1,6 @@
+{
+  "name": "Car Detailing Website",
+  "description": "A premium, luxury 3D-feel car detailing website template customized for Royal Way Car Detailing Centre in Qatar, featuring responsive bilingual support, interactive pricing, maps, and high-end aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
