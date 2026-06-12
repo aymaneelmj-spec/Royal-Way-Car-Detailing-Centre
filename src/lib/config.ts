@@ -37,55 +37,55 @@ export const SITE_CONFIG = {
   platform: "Google Reviews",
 
   // ── Hero ──────────────────────────────────────────────────
-  heroBackground: "/src/assets/images/main_background_1781226015883.jpg",
+  heroBackground: "/src/assets/images/mainBackground.jpg",
 
   // ── Gallery ───────────────────────────────────────────────
   // Using direct premium generated images from the AI Studio Workspace
   galleryImages: [
     {
-      src: "/src/assets/images/gallery_01_1781226032526.jpg",
+      src: "/src/assets/images/1.jpg",
       title: "Paint Correction & Polish",
       titleAr: "تصحيح مصقول وتلميع الطلاء",
       category: "Correction"
     },
     {
-      src: "/src/assets/images/gallery_02_1781226047310.jpg",
+      src: "/src/assets/images/4.jpg",
       title: "Active Snow-Wash Suds",
       titleAr: "غسيل رغوي نشط للسيارات",
       category: "Detailing"
     },
     {
-      src: "/src/assets/images/gallery_03_1781226062096.jpg",
+      src: "/src/assets/images/7.jpg",
       title: "Steamed & Conditioned Leather",
       titleAr: "تنظيف وتعقيم الكراسي والشاشات",
       category: "Interior"
     },
     {
-      src: "/src/assets/images/gallery_04_1781226078925.jpg",
+      src: "/src/assets/images/30.jpg",
       title: "Hydrophobic Glass-Shield Beading",
       titleAr: "حماية النانو سيراميك عالي اللمعان",
       category: "Ceramic"
     },
     {
-      src: "https://images.unsplash.com/photo-1616788494707-ec28f08d05a1?auto=format&fit=crop&w=800&q=80",
+      src: "/src/assets/images/41.jpg",
       title: "Rotary Swirl Correction",
       titleAr: "إزالة الخدوش الدائرية بالمكائن",
       category: "Correction"
     },
     {
-      src: "https://images.unsplash.com/photo-1563720223185-11003d516935?auto=format&fit=crop&w=800&q=80",
+      src: "/src/assets/images/45.jpg",
       title: "Luxury Seat Renovation",
       titleAr: "تجديد المقاعد الفاخرة بالكامل",
       category: "Interior"
     },
     {
-      src: "https://images.unsplash.com/photo-1607860108855-64acf2078ed9?auto=format&fit=crop&w=800&q=80",
+      src: "/src/assets/images/1.jpg",
       title: "Precision Foam Cleaning",
       titleAr: "تنظيف تفصيلي دقيق بالرغوة",
       category: "Detailing"
     },
     {
-      src: "https://images.unsplash.com/photo-1542282088-fe8426682b8f?auto=format&fit=crop&w=800&q=80",
+      src: "/src/assets/images/28.jpg",
       title: "Deep Gloss Paint Sealant",
       titleAr: "عزل طلاء عميق وحماية الألوان",
       category: "Ceramic"
